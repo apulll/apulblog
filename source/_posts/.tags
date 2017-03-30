@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+具体操作步骤	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^## 具体操作步骤$/;"	function	line:8
+1、生成一个公司用的SSH-Key	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^#### 1、生成一个公司用的SSH-Key$/;"	function	line:10
+2、生成一个github用的SSH-Key	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^#### 2、生成一个github用的SSH-Key$/;"	function	line:18
+3、添加私钥	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^#### 3、添加私钥$/;"	function	line:26
+可以通过 ssh-add -l 来确私钥列表	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^# 可以通过 ssh-add -l 来确私钥列表$/;"	function	line:36
+可以通过 ssh-add -D 来清空私钥列表	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^# 可以通过 ssh-add -D 来清空私钥列表$/;"	function	line:38
+4、修改配置文件	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^#### 4、修改配置文件$/;"	function	line:41
+gitlab	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^# gitlab$/;"	function	line:48
+github	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^# github$/;"	function	line:53
+6、测试	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\git���ö��SSH-Key.md	/^#### 6、测试$/;"	function	line:59
+Quick Start	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\hello-world.md	/^## Quick Start$/;"	function	line:6
+Create a new post	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\hello-world.md	/^### Create a new post$/;"	function	line:8
+Run server	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\hello-world.md	/^### Run server$/;"	function	line:16
+Generate static files	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\hello-world.md	/^### Generate static files$/;"	function	line:24
+Deploy to remote sites	D:\cpu\xamp\htdocs\myproject\H_hexo\source\_posts\hello-world.md	/^### Deploy to remote sites$/;"	function	line:32

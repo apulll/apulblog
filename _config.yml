@@ -46,7 +46,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
-          前端: Froontend
+          前端: Frontend
           交互: UX
           工具: others
 tag_map:
